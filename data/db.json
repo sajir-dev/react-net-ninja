@@ -1,0 +1,7 @@
+{
+    "blogs": [
+        {"title":"Home brewery", "body":"Story of a few drunkards", "author":"Martin", "id":1},
+        {"title":"Home brewery", "body":"Story of a few drunkards", "author":"Lucy", "id":2},
+        {"title":"Home brewery", "body":"Story of a few drunkards", "author":"Martin", "id":3}
+    ]
+}
